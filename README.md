@@ -140,6 +140,6 @@ Then let's start with this repository.
 ####  That's it. You have opened a PR. Wait for it to get merged. :partying_face: :partying_face: :partying_face:
 
 
-# NOTE: Make sure to follow the contribution guidelines of the project you're contributing to and adhere to good coding practices. Also, be patient, as maintainers may take some time to review and merge pull requests.
+## NOTE: Make sure to follow the contribution guidelines of the project you're contributing to and adhere to good coding practices. Also, be patient, as maintainers may take some time to review and merge pull requests.
 
 Happy coding !!!!
